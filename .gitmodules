@@ -1,0 +1,6 @@
+[submodule "SkillSight_API"]
+	path = SkillSight_API
+	url = ./SkillSight_API/
+[submodule "SkillSight_Frontend"]
+	path = SkillSight_Frontend
+	url = ./SkillSight_Frontend/
