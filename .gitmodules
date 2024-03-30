@@ -1,6 +1,6 @@
 [submodule "SkillSight_API"]
 	path = SkillSight_API
-	url = ./SkillSight_API/
+	url = https://github.com/hamayoonk95/SkillSight_API.git
 [submodule "SkillSight_Frontend"]
 	path = SkillSight_Frontend
-	url = ./SkillSight_Frontend/
+	url = https://github.com/hamayoonk95/SkillSight_Frontend.git
